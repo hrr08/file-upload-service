@@ -1,0 +1,15 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "API to upload and reflect file information",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hrr08",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "multer": "^1.3.0"
+  }
+}
